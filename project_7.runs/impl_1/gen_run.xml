@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1554702843">
+  <File Type="BITSTR-BMM" Name="calculator_fpga1_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="calculator_fpga1_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="calculator_fpga1_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="calculator_fpga1_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="calculator_fpga1.tcl"/>
+  <File Type="OPT-TIMING" Name="calculator_fpga1_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="calculator_fpga1_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="calculator_fpga1_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="calculator_fpga1_reports.tcl"/>
+  <File Type="OPT-DRC" Name="calculator_fpga1_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="calculator_fpga1.hwdef"/>
+  <File Type="PWROPT-DCP" Name="calculator_fpga1_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="calculator_fpga1_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="calculator_fpga1_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="calculator_fpga1_placed.dcp"/>
+  <File Type="PLACE-IO" Name="calculator_fpga1_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="calculator_fpga1_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="calculator_fpga1_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="calculator_fpga1_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="calculator_fpga1_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="calculator_fpga1_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="calculator_fpga1_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="calculator_fpga1.bgn"/>
+  <File Type="PLACE-TIMING" Name="calculator_fpga1_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="calculator_fpga1_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="calculator_fpga1.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="calculator_fpga1_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="calculator_fpga1_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="calculator_fpga1_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="calculator_fpga1.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="calculator_fpga1_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="calculator_fpga1_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="calculator_fpga1_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="calculator_fpga1_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="calculator_fpga1_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="calculator_fpga1_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="calculator_fpga1.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="calculator_fpga1_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="calculator_fpga1.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="calculator_fpga1_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="calculator_fpga1_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="calculator_fpga1.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="calculator_fpga1_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="calculator_fpga1_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="calculator_fpga1_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="calculator_fpga1_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="calculator_fpga1_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="calculator_fpga1_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="calculator_fpga1_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="calculator_fpga1_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="calculator_fpga1_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="calculator_fpga1_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="calculator_fpga1_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="calculator_fpga1_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="calculator_fpga1_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="calculator_fpga1_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="calculator_fpga1_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="calculator_fpga1_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="calculator_fpga1_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="calculator_fpga1_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="calculator_fpga1_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="calculator_fpga1.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="calculator_fpga1_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="calculator_fpga1.rbt"/>
+  <File Type="BITSTR-NKY" Name="calculator_fpga1.nky"/>
+  <File Type="BG-DRC" Name="calculator_fpga1.drc"/>
+  <File Type="RDI-RDI" Name="calculator_fpga1.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ALU.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/CU.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/DP.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MUX1.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MUX2.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/RF.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Desktop/basys3_utility_modules/bcd_to_7seg.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Desktop/basys3_utility_modules/button_debouncer.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/calculator_topLevel.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Desktop/basys3_utility_modules/clk_gen.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Desktop/basys3_utility_modules/led_mux.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/calculator_fpga1.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/calculator_topLevel_tb.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="calculator_fpga1"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/constraints.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
